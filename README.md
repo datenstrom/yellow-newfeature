@@ -1,12 +1,12 @@
-# Helloworld 0.9.1
+# Example 0.9.1
 
-Experimental extension for Datenstrom Yellow developers.
+Example feature for Datenstrom Yellow.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/schulle4u/yellow-helloworld/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/datenstrom/yellow-example-feature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 **TODO:** *Change the download link to your repository. Test your extension in a brand new installation.*
 
