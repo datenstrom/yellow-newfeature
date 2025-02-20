@@ -1,6 +1,6 @@
-// Helloworld extension, https://github.com/schulle4u/yellow-helloworld
+// Example extension, https://github.com/datenstrom/yellow-example-feature
 
-var initHelloworldFromDOM = function() {
+var initExampleFromDOM = function() {
     
     // Animate element
     var animateElement = function() {
@@ -38,11 +38,11 @@ var initHelloworldFromDOM = function() {
     // Initialise animation loop
     var elementIndex = 0;
     var elementPosition = 0;
-    var elements = document.querySelectorAll(".helloworld");
+    var elements = document.querySelectorAll(".example");
     for (var i=0, l=elements.length; i<l; i++) {
         elements[i].onclick = onClickElement;
     }
     if (elements.length) animateElement();
 };
 
-window.addEventListener("DOMContentLoaded", initHelloworldFromDOM, false);
+window.addEventListener("DOMContentLoaded", initExampleFromDOM, false);
