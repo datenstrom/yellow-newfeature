@@ -1,4 +1,4 @@
-# Example 0.9.1
+# Feature 0.9.1
 
 Example feature for Datenstrom Yellow.
 
