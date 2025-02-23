@@ -1,6 +1,6 @@
-// Feature extension, https://github.com/datenstrom/yellow-example-feature
+// Yourfeature extension, https://github.com/datenstrom/yellow-example-feature
 
-var initFeatureFromDOM = function() {
+var initYourfeatureFromDOM = function() {
     
     // Animate element
     var animateElement = function() {
@@ -38,11 +38,11 @@ var initFeatureFromDOM = function() {
     // Initialise animation loop
     var elementIndex = 0;
     var elementPosition = 0;
-    var elements = document.querySelectorAll(".feature");
+    var elements = document.querySelectorAll(".yourfeature");
     for (var i=0, l=elements.length; i<l; i++) {
         elements[i].onclick = onClickElement;
     }
     if (elements.length) animateElement();
 };
 
-window.addEventListener("DOMContentLoaded", initFeatureFromDOM, false);
+window.addEventListener("DOMContentLoaded", initYourfeatureFromDOM, false);

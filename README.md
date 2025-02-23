@@ -1,4 +1,4 @@
-# Feature 0.9.1
+# Yourfeature 0.9.1
 
 Example feature for Datenstrom Yellow.
 
@@ -12,23 +12,23 @@ Example feature for Datenstrom Yellow.
 
 ## How to make animated text
 
-Create a `[feature]` shortcut with an optional text. 
+Create a `[yourfeature]` shortcut with an optional text. 
 
 ## Examples
 
 Making animated text:
 
-    [feature - Hello World]
-    [feature - printf("Hello World\n");]
-    [feature - alert("Hello World");]  
+    [yourfeature - Hello World]
+    [yourfeature - printf("Hello World\n");]
+    [yourfeature - alert("Hello World");]  
 
 Making animated text inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
-    * [feature - Fun to use]
-    * [feature - Installed in a few minutes]
-    * [feature - Just files and folders]
+    * [yourfeature - Fun to use]
+    * [yourfeature - Installed in a few minutes]
+    * [yourfeature - Just files and folders]
 
 ## Developer
 
