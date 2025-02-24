@@ -32,4 +32,4 @@ Making animated text inside a list:
 
 ## Developer
 
-Your name here. [Get help](https://datenstrom.se/yellow/help/).
+Your name. [Get help](https://datenstrom.se/yellow/help/).
