@@ -1,4 +1,4 @@
-# Yourfeature 0.9.1
+# Newfeature 0.9.1
 
 Example feature for Datenstrom Yellow.
 
@@ -6,29 +6,29 @@ Example feature for Datenstrom Yellow.
 
 ## How to install an extension
 
-[Download ZIP file](https://github.com/datenstrom/yellow-example-feature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+[Download ZIP file](https://github.com/datenstrom/yellow-newfeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
 
 *Important: Change the download link to your repository.*
 
 ## How to make animated text
 
-Create a `[yourfeature]` shortcut with an optional text. 
+Create a `[newfeature]` shortcut with an optional text. 
 
 ## Examples
 
 Making animated text:
 
-    [yourfeature - Hello World]
-    [yourfeature - printf("Hello World\n");]
-    [yourfeature - alert("Hello World");]  
+    [newfeature - Hello World]
+    [newfeature - printf("Hello World\n");]
+    [newfeature - alert("Hello World");]  
 
 Making animated text inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
-    * [yourfeature - Fun to use]
-    * [yourfeature - Installed in a few minutes]
-    * [yourfeature - Just files and folders]
+    * [newfeature - Fun to use]
+    * [newfeature - Installed in a few minutes]
+    * [newfeature - Just files and folders]
 
 ## Developer
 
