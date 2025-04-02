@@ -33,9 +33,9 @@ Content file with animated text:
 
 Making animated text:
 
-    [newfeature - We <3 people who code]
-    [newfeature - This is an example text]
-    [newfeature - This is an especially long example text]  
+    [newfeature - We <3 people who code.]
+    [newfeature - This is an example text.]
+    [newfeature - This is an especially long example text.]  
 
 Making animated text inside a list:
 
