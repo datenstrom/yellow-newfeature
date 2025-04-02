@@ -31,13 +31,13 @@ Content file with animated text:
     tempor incididunt ut labore et dolore magna pizza. Ut enim ad minim veniam, 
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
 
-Making animated text:
+Making animated text, different text:
 
     [newfeature - We <3 people who code.]
     [newfeature - This is an example text.]
     [newfeature - This is an especially long example text.]  
 
-Making animated text inside a list:
+Making animated text, inside a list:
 
     Datenstrom Yellow is for people who make small websites.
     
