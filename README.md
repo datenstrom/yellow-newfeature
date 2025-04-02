@@ -16,11 +16,26 @@ Create a `[newfeature]` shortcut with an optional text.
 
 ## Examples
 
-Making animated text:
+Content file with animated text:
+
+    ---
+    Title: Example page
+    ---
+    This is an example page with animated text.
 
     [newfeature - Hello World]
     [newfeature - printf("Hello World\n");]
     [newfeature - alert("Hello World");]  
+
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
+    tempor incididunt ut labore et dolore magna pizza. Ut enim ad minim veniam, 
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+
+Making animated text:
+
+    [newfeature - We <3 people who code]
+    [newfeature - This is an example text]
+    [newfeature - This is an especially long example text]  
 
 Making animated text inside a list:
 
