@@ -4,11 +4,13 @@ Example feature for Datenstrom Yellow.
 
 <p align="center"><img src="SCREENSHOT.png" alt="Screenshot"></p>
 
-*Tips for developers and designers: You can use this example feature to make an extension for Datenstrom Yellow. Click on "Use this template" at the top of the page. This will create a new repository on GitHub. Edit the README file in your repository, go to "How to install an extension" and change the download link to the URL of your repository. Have fun coding.*
-
 ## How to install an extension
 
 [Download ZIP file](https://github.com/datenstrom/yellow-newfeature/archive/refs/heads/main.zip) and copy it into your `system/extensions` folder. [Learn more about extensions](https://github.com/annaesvensson/yellow-update).
+
+## How to make an extension
+
+Create a new repository on GitHub or Codeberg. For example click on `Use this template` in the top-right corner. Edit the README file in your repository. Go to "How to install an extension" and replace the download link with the download link of your repository. [Learn more about making extensions](https://github.com/annaesvensson/yellow-publish).
 
 ## How to make animated text
 
